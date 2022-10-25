@@ -1,15 +1,45 @@
-MUSIC GENRE CLASSIFICATION
+# MUSIC GENRE CLASSIFICATION
 
 
-The main aim of the project is to identify the genre of the music clips.
+The main aim of the project is to identify the genre of the music clips.This is done using GTZAN dataset. With the help of PyTorch , Convolutional neural network is made of 3 convolutional and 4 linear layers . ReLu activation function and SGD optimizer with learning rate =0.0005 is used .
 
-This is done using GTZAN dataset.
+**BASIC FLOW :**
 
-The Convolutional neural network is made using 3 convolutional and 4 linear layers .
+
+```mermaid
+flowchart TD;
+    DATASET-->SPECTOGRAM ;
+    SPECTOGRAM -->CNN;
+    CNN--> GENRE_CLASSIFICATION ;
+```
+
 
 For the input the spectograms were generated which were then passed to the convolutional neural network and with the help of genre as labels the classification was done.
 
-Accuracy 
+**Genres:**
+
+- Blues
+
+- Classical
+
+- Country
+
+* Disco
+
+* Hiphop
+
+* Jazz
+
+* Metal
+
+* Pop
+
+* Reggae
+
+* Rock
+
+
+## Accuracy 
 
 
 Train set : 93.75%
