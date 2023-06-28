@@ -42,10 +42,12 @@ For the input the spectograms were generated which were then passed to the convo
 ## Accuracy 
 
 
-Train set : 93.75%
+Train set : 100 %
 
 
-Test set : 67.67 %
+Test set : 65 %
+
+
 
 
 Accuracy plot :
@@ -57,4 +59,31 @@ Accuracy plot :
 Loss plot :
 
 ![image](https://github.com/coderhetal/Music-genre-classification-/assets/109482222/072fd3b7-e578-4849-8dbe-72ea8a40598e)
+
+
+
+
+## B using pretrained (ResNet18 Architecture )
+### Accuracy 
+
+
+Train set : 100 %
+
+
+Test set : 100 %
+
+
+
+
+
+
+Accuracy plot :
+
+![image](https://github.com/coderhetal/Music-genre-classification-/assets/109482222/a0efde6d-af8b-4c9b-ab22-8746be1bcae0)
+
+
+Loss plot :
+
+![image](https://github.com/coderhetal/Music-genre-classification-/assets/109482222/8d6fb38b-5629-42fb-8e8c-e4f7b393291c)
+
 
