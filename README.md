@@ -63,7 +63,7 @@ Loss plot :
 
 
 
-## B using pretrained (ResNet18 Architecture )
+## By using pretrained (ResNet18 Architecture )
 ### Accuracy 
 
 
