@@ -50,11 +50,11 @@ Test set : 67.67 %
 
 Accuracy plot :
 
-![image](https://user-images.githubusercontent.com/109482222/197410663-0874bc0d-75a4-482b-a3a3-3876b5b1405e.png)
-
+![image](https://github.com/coderhetal/Music-genre-classification-/assets/109482222/44b80a01-0bf1-4fae-b347-41177fd9b28b)
 
 
 
 Loss plot :
 
-![image](https://user-images.githubusercontent.com/109482222/197410719-d95dba07-720d-4ab5-9b11-086ce626f681.png)
+![image](https://github.com/coderhetal/Music-genre-classification-/assets/109482222/072fd3b7-e578-4849-8dbe-72ea8a40598e)
+
